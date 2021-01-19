@@ -1,0 +1,71 @@
+BOSS License
+
+Version 1.0, January 2021
+
+Copyright © 2021 SafeOSS OÜ <https://www.safe-oss.com/>
+
+It is permitted to copy and distribute copies of this license document, but changing it is not allowed.
+
+PREAMBLE
+
+The Business Open-source Software (BOSS) license is an open-source multi-contributor copyright license.
+
+Most open-source software licenses leave few possibilities for its commercialization and flexible business model setup. Important contributions and hard work of the open-source community are barely appreciated. The dual-licensing is a possible solution but it does not exist for derived products in the case of the selection of the pure free open-source option. The contribution of each member of the "forking chain" is hard to evaluate but, still, the reward of their work must be properly commercially rewarded.
+
+The BOSS license gives profit to each contributor of the open-source community who uses this license while keeping the open-source spirit and logic. If an open-source project is important and valuable, it will incept multiple forks by the first and next levels. Commercial usage of each fork must provide a reward to the original root project copyright holder and all others in-between. More high-engineering impact the project gives, more forks will be derived and more rewards will be accounted for, similarly to the multi-level marketing concept. Any copyright transfers including merge and acquisition or startup investor exit will be the matter of the deserved fee payment to the open-source community involved in the creation of components used and all the updates.
+
+This license text has been derived from Apache License Version 2.0 with additional commercial terms added and its original permissive nature changed.
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 8 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+
+"Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+
+"Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+
+"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+
+"Copyright Notice" is any readable form of information about the copyright holder which must contain, at least, the following: copyright holder name, year of the intellectual property creation completion, and contact information.
+
+"Work" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by Copyright Notice that is included in or attached to the work.
+
+"Derivative Works" shall mean any work, whether, in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+
+"Contribution" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
+
+"Contributor" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+
+"Stated Contributor" shall mean Contributor stated explicitly in the Copyright Notice.  
+
+2. Copyright License. Subject to the terms and conditions of this License, each Contributor and Stated Contributor hereby grants to You a perpetual, worldwide, non-exclusive, irrevocable right to reproduce, prepare Derivative Works of, publicly display, publicly perform, and distribute the Work and such Derivative Works in Source or Object form. This right allows You to use the Work and the Derivative Work for all possible needs behind any of Your business operations EXCEPT reselling or other full or partial copyright transfers of Work and/or Contributions You made while creating the Derivative Work to the new copyright owner. The transfer of Your Contributions copyright to the new copyright holder is not allowed without the one-time or recurring fee which the Stated Contributors of the Work request in writing or, either, getting Stated Contributors' approval in writing to proceed without the fee. Here and hereinafter, changes in the Legal Entity structure are subject to the same prerequisite. In this case the one-time or recurring fee that the Stated Contributors expect must be agreed in writing regardless of any copyright transfer. In all these cases if the Work is a Derivative Work derived in its turn from an original Work then the aforementioned Stated Contributors have the same obligations against the Stated Contributors of the original Work: they must agree the one-time or recurring fee or its absence in writing.
+
+3. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
+
+  i. You must give any other recipients of the Work or Derivative Works a copy of this License; and
+
+  ii. You must cause any modified files to carry prominent Copyright Notices stating that You changed the files; and
+
+  iii. You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+
+  iv. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License; and
+
+  v. You cannot provide or approve additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, unless it has been approved in writing by all the Stated Contributors of the Work. If the Work is a Derivative Work derived in its turn from an original Work then the aforementioned Stated Contributors have the same obligations against the Stated Contributors of the original Work: they must agree the license change in writing. All mentioned license change written confirmations can have a one-time or recurring fee as a prerequisite depending on the parties' discretion.
+
+4. Submission of Contributions. Any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions if it is consistent with Subsection 3.v of this document.
+
+5. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+
+6. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
+
+7. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+
+8. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
+
+END OF TERMS AND CONDITIONS
